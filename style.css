@@ -40,3 +40,9 @@ main h2 {
 .codys-styles {
     background:rgb(92, 149, 235);
 }
+
+.gabe-style {
+    color: green;
+    background-color: black;
+    padding: 3px;
+}
