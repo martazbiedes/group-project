@@ -16,7 +16,7 @@ header h1 {
     margin: 0;
 }
 main h2 {
-    color: black;
+    color: black; 
     text-decoration: underline;
 }
 .container {
